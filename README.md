@@ -7,7 +7,7 @@
       <p>Meu objetivo é documentar minha evolução e criar soluções sólidas que demonstrem minha bagagem técnica e capacidade de resolver problemas reais.</p>
     </td>
     <td valign="top" width="35%">
-      <img src="" style="border-radius: 8px;" alt="Tech Image"/>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNoM3NjcGZnd3E5cXN0am10N29scXN0bXp6Z3Z5am10N29scXN0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3p50WGyUqiU5Maddjb/giphy.gif" style="border-radius: 8px;" alt="Tech Image"/>
     </td>
   </tr>
 </table>
